@@ -1,0 +1,7 @@
+# archivos del framework que no se deben subir
+extensions
+
+# archivos generados por el sistema operativos o sus aplicaciones
+.directory
+.lastsync
+
